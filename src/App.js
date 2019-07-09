@@ -7,7 +7,7 @@ class App extends Component {
   constructor() {
     super();
     this.state = {
-      menuStatus: "drop-down-menu"
+      menuStatus: "drop-down-menu-closed"
 
     }
   }
